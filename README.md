@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on TPExpress<br>👯 I’m looking to collaborate on Everything<br>🌱 I’m currently learning Nest.js and PHP<br>💬 Ask me about React, Node, C#<br>⚡ Fun fact Xia Yi Tong is the best girl ever 
+🔭 I’m currently working on ThinkProfit<br>👯 I’m looking to collaborate on Everything<br>🌱 I’m currently learning Nest.js and PHP<br>💬 Ask me about React, Node, C#<br>⚡ Fun fact Xia Yitong, Madame Herta is the best girl ever 
 
 
 ## 🌐 Socials:
